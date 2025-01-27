@@ -22,3 +22,11 @@ this text is ***really important***
 my favourite social media is [twitter](https://x.com/?lang=en&mx=2).
 
 ![blade runner](/images/br.jpg)
+
+## tables
+
+column 1 | column 2
+-- | --
+row 1 | row 1 
+row 2 | row 2
+
